@@ -1,0 +1,4 @@
+liguochangli	liliyang	1
+root	root	1
+rt	root	1
+liguo	root	0
